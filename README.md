@@ -1,6 +1,6 @@
 # VisiData on the Web
 
-a demo of [VisiData](https://www.visidata.org/) on the web using [ttyd](https://github.com/tsl0922/ttyd), deployed by [Disco](https://disco.cloud/)
+a demo of [VisiData](https://www.visidata.org/) on the web using [ttyd](https://github.com/tsl0922/ttyd), deployed using [Disco](https://disco.cloud/)
 
 try it out by passing an url as the `?arg=` value:
 
