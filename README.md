@@ -16,3 +16,4 @@ https://visidata.rcdis.co/?arg=https://en.wikipedia.org/wiki/List_of_the_busiest
   - have a custom backend..? another web service? just for files..? but then ttyd takes over..?
 - update to latest version of visidata..? why is apt-get fetching an old version? because it's running on a raspi? because of the ttyd docker image? try ttyd:alpine..?
 - make clipboard work ie ability to copy .. and paste?? data
+- rename repo to visidata-web, and potentially look into alternatives to ttyd (mostly for all of the reasons above - desire to have copy/paste, file upload/download, etc...!!) -- look into [alternatives](https://github.com/tsl0922/ttyd?tab=readme-ov-file#alternatives) ??
