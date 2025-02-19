@@ -15,3 +15,4 @@ https://visidata.rcdis.co/?arg=https://en.wikipedia.org/wiki/List_of_the_busiest
   - where would the files go ie would they be uploaded somewhere temporarily..? then deleted?
   - have a custom backend..? another web service? just for files..? but then ttyd takes over..?
 - update to latest version of visidata..? why is apt-get fetching an old version? because it's running on a raspi? because of the ttyd docker image? try ttyd:alpine..?
+- make clipboard work ie ability to copy .. and paste?? data
