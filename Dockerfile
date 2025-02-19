@@ -7,4 +7,4 @@ RUN apt-get -y install python3-pip
 COPY requirements.txt requirements.txt
 RUN pip3 install -r requirements.txt
 
-CMD ["ttyd", "-W", "-p", "8000", "bash", "-x"]
+CMD ["ttyd", "-a", "-W", "-p", "8000", "vd"]
